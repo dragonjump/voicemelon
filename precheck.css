@@ -105,8 +105,10 @@
      opacity: .11;
  }
  .clickable{
-    cursor: pointer;
-    &:hover{ opacity: .5;}
+    cursor: pointer; 
+ }
+ .clickable:hover{
+    opacity: .5;
  }
 
  .leftindent{
